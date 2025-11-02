@@ -17,9 +17,8 @@ NovaTech Dashboard adalah aplikasi web berbasis React yang dirancang untuk memba
 
 
 ## Tech Stack
-- **Frontend Framework**: React.js 18.2.0
-- **Build Tool**: Vite 5.0.8
-- **Styling**: Tailwind CSS 3.3.6
-- **Charts Library**: Recharts 2.10.3
-- **Icons**: Lucide React 0.263.1
+- **Frontend Framework**: React.js v19.2.0
+- **Styling**: Tailwind CSS 3.4.18
+- **Charts Library**: Recharts 3.3.0
+- **Icons**: Lucide React 0.548.0
 - **Language**: JavaScript (ES6+)
